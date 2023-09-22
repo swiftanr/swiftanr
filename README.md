@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swiftanr
-- I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- I’m interested in iOS Development
+- 🌱 I’m currently learning iOS Development
 - 📫 [Twitter](https://twitter.com/DS17001)
 
 <!---
